@@ -77,7 +77,9 @@ Soy muy fan de ![NASA](https://cdn.shopify.com/s/files/1/0192/1088/products/5784
 
 ![Satelite](https://pbs.twimg.com/media/Dq53BrPXQAAzXJM.jpg)
 
-### Con tutoriales de [@akirasan](http://akirasan.net/tag/lora/)
+### Aprendo de comunicaciones Lora con tutoriales de [@akirasan](http://akirasan.net/tag/lora/)
+
+![Lora](https://pbs.twimg.com/media/DptkPkvWsAA2YEB.jpg)
 
 ### También quiero una cámara que  gire 
 
@@ -87,10 +89,18 @@ Soy muy fan de ![NASA](https://cdn.shopify.com/s/files/1/0192/1088/products/5784
 
 ### Quiero añadir una estación meteorológica que analice la calidad del aire
 
+### Me encuentro que mi amigo Federico y otros han publicado [esto](https://github.com/fgcoca/estacion-dashboard)
+
+# El #OpenSource acorta distancias y rebaja las dificultades. Gracias
 
 ### Pero las patentes y los secretos ...
 
-# El #OpenSource acorta distancias y rebaja las dificultades. Gracias
+
+# ¡¡¡ Gracias por compartir el conocimiento !!!
+
+
+
+
 
 
 
