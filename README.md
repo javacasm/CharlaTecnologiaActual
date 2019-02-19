@@ -6,6 +6,8 @@
 
 ### José Antonio Vacas @javacasm
 
+### http://github.com/javacasm/CharlaTecnologiaActual
+
 ![CC](./images/Licencia_CC.png)
 
 ### ¿Una charla sobre qué?
