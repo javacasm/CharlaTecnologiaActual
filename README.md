@@ -4,6 +4,8 @@
 
 ## 19 de Febrero de 2019 9:05
 
+### José Antonio Vacas @javacasm
+
 ![CC](./images/Licencia_CC.png)
 
 ### ¿Una charla sobre qué?
