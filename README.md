@@ -40,6 +40,10 @@ Soy muy fan de ![NASA](https://cdn.shopify.com/s/files/1/0192/1088/products/5784
 
 ### Menos mal que @luisLlamas ya lo ha resuelto y [compartido](https://www.luisllamas.es/salidas-analogicas-pwm-en-arduino/)
 
+#### Hago esto ...
+
+![](./images/Curiosity_BTL.png)
+
 [Vídeo](https://photos.app.goo.gl/wyZHRgwfbKUe8Zgx5)
 
 ## Les gusta la idea pero ... 
@@ -81,7 +85,14 @@ Soy muy fan de ![NASA](https://cdn.shopify.com/s/files/1/0192/1088/products/5784
 
 ![Torreta](http://3drf.com/wp-content/uploads/2017/09/ba3a716b68d09a9e3d9e86e922159904_preview_featured.jpg)
 
+### Quiero añadir una estación meteorológica que analice la calidad del aire
+
+
+### Pero las patentes y los secretos ...
+
 # El #OpenSource acorta distancias y rebaja las dificultades. Gracias
+
+
 
 ### Anteriormente ....
 
