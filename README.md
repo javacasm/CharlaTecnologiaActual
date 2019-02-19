@@ -2,7 +2,7 @@
 
 ## Instituto Virgen de las Nieves
 
-## 19 de Febrero de 2019
+## 19 de Febrero de 2019 9:05
 
 ![CC](./images/Licencia_CC.png)
 
