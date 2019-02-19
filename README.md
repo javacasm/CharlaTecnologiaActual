@@ -12,7 +12,7 @@
 
 #### Os cuento mi última semana ....
 
-Soy muy fan de ![NASA](https://cdn.shopify.com/s/files/1/0192/1088/products/57847_1024x1024.png?v=1546624552)
+Soy muy fan de ... ![NASA](https://cdn.shopify.com/s/files/1/0192/1088/products/57847_1024x1024.png?v=1546624552)
 
 ### El pobre Opportunity ...
 
